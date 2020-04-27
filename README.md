@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-run_analysis.R: It's a R program that executes the next actions:
+run_analysis.R: It's an R program that executes the next actions:
 
 1.- Download the zip file.
 2.- Unzip the zip file.
